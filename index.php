@@ -1,6 +1,6 @@
 <?php 
 
-namespace demo\DemoPackage;
+namespace maaster\DemoPackage;
 
 class Index
 {

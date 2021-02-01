@@ -1,5 +1,5 @@
 {
-    "name": "dell/demopackage",
+    "name": "maaster/demopackage",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"dell\\DemoPackage\\": "src/"}
+        "psr-4": {"maaster\\DemoPackage\\": "src/"}
     },
     "require": {}
 }
