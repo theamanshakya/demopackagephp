@@ -1,0 +1,16 @@
+{
+    "name": "dell/demopackage",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aman Shakya",
+            "email": "theamanshakya@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"dell\\DemoPackage\\": "src/"}
+    },
+    "require": {}
+}
